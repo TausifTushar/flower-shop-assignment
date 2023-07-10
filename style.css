@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*Head Part Start*/
+.banner-container{
+    height: 100vh;
+    background-color: #eddadd;
+    display: flex;  
+    justify-content: space-around;
+    
+}
+.content{
+    margin-top: 200px;
+    margin-left: 150px;
+}
+.flower{
+    width: 400px;
+    margin-top: 105px;
+}
+.header-peragraph{
+    margin-top: 10px;
+    font-size: small;
+}
+.header-btn{
+    margin-top: 15px;
+    background-color: #E55473;
+    border: 0;
+    padding: 10px 12px;
+    color: white;
+}
+/*Head Part End*/
