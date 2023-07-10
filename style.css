@@ -64,21 +64,21 @@
 }
 .second-flower{
     width: 300px;
-background-color: #b5d7d8 ;
-border-top-left-radius: 150px;
-border-top-right-radius: 150px;
- display: flex;
- justify-content: center;
- align-items: center;
+   background-color: #b5d7d8 ;
+   border-top-left-radius: 150px;
+   border-top-right-radius: 150px;
+   display: flex;
+   justify-content: center;
+    align-items: center;
 }
 .thired-flower{
     background-color: rgba(145, 182, 109, 0.15);
     border-top-left-radius: 150px;
-border-top-right-radius: 150px;
- display: flex;
- justify-content: center;
- align-items: center;
- width: 300px;
+    border-top-right-radius: 150px;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+    width: 300px;
 }
 .img{
     margin-top: 50px;
@@ -97,4 +97,102 @@ border-top-right-radius: 150px;
 .Pink-Flower-Tree a {
     color: black;
 }
+.logo-container{
+    background-color: rgb(207, 205, 205);
+    height: 150px;
+    width: 940px;
+    margin-top: 50px;
+    margin-left: 150px;
+    
+}
+.space-logo{
+   
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.space-logo img{
+    margin-top: 50px;
+}
+.size-logo{
+    width: 50px;
+}
+/*Hot Deal Part Start*/
+.hot-deal{
+    margin-top: 50px;
+    background-color: #ebe1e3 ;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+span{
+    color: #E55473;
+}
+.hot-deal-peragraph{
+    text-align: center;
+    margin-right: -50px;
+}
+.flower-red{
+    width: 220px;
+     margin-left: -50px;
+}
+.hot-header{
+    font-size: 25px;
+}
+.hot-peragraph{
+    margin-top: 10px;
+    font-size: small;
+}
+.insta{
+    text-align: center;
+    margin-top: 50px;
+}
+.insta p{
+    margin-top: 10px;
+    font-size: small;
+    padding: 7px 0px;
+}
+.img-container{
+    margin-top: 30px;
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.with-back-img{
+    width: 240px;
+
+}
+.latest-deals{
+    background-image: url("Flower Asset/Rectangle\ 9.png");
+    height: 250px;
+    width: 1010px;
+    margin-top: 100px;
+    margin-left: 120px;
+    text-align: center;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+.footer-background{
+    background-color: black;
+    height: 300px;
+    text-align: center;
+    color: white;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-head p{
+    font-size:smaller;
+    margin-top: 15px;
+}
+.copy-wright{
+    color:rgb(114, 109, 109);
+}
+ 
+
 
