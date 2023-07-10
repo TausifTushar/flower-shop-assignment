@@ -28,5 +28,73 @@
     border: 0;
     padding: 10px 12px;
     color: white;
+    border-radius: 4px;
+    
 }
 /*Head Part End*/
+/*Main Part Start*/
+.feature{
+    margin-top: 100px;
+    text-align: center;
+}
+.main-header{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.feature-peragraph{
+    margin-top: 20px;
+    font-size: small;
+}
+.three-flowers{
+    display: flex;
+    gap: 10px;
+    margin-top: 50px;
+    justify-content: center;
+    
+}
+.first-flower{
+    width: 300px;
+    background-color: #eddadd;
+   border-top-left-radius: 150px;
+   border-top-right-radius: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.second-flower{
+    width: 300px;
+background-color: #b5d7d8 ;
+border-top-left-radius: 150px;
+border-top-right-radius: 150px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.thired-flower{
+    background-color: rgba(145, 182, 109, 0.15);
+    border-top-left-radius: 150px;
+border-top-right-radius: 150px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ width: 300px;
+}
+.img{
+    margin-top: 50px;
+    width: 200px;
+}
+.pink-flower{
+    margin-top: 72px;
+    width:200px
+}
+.Pink-Flower-Tree{
+    display: flex;
+    margin-top: 35px;
+    justify-content:space-evenly;
+    align-items: center; 
+}
+.Pink-Flower-Tree a {
+    color: black;
+}
+
